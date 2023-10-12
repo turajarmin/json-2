@@ -1,0 +1,48 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "home",
+      "link": "https://www.google.com",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "name": "about",
+      "link": "https://www.google.com",
+      "dropdown": []
+    },
+    {
+      "id": 3,
+      "name": "contact",
+      "link": "https://www.google.com",
+      "dropdown": []
+    },
+    {
+      "id": 4,
+      "name": "gallery",
+      "link": "https://www.google.com",
+      "dropdown": [
+        {
+          "id": 1,
+          "name": "galerry-1",
+          "link": "https://elecodeiranzamin.com"
+        },
+        {
+          "id": 2,
+          "name": "galerry-2",
+          "link": "https://elecodeiranzamin.com"
+        },
+        { "id": 3, "name": "galerry-3", "link": "https://elecodeiranzamin.com" }
+      ]
+    }
+  ],
+  "parallax": {
+    "id": 1,
+    "image": "https://wallpapercave.com/wp/wp6690516.jpg",
+    "title": "Hello-World!",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis aliquid, velit perferendis, vitae, aperiam accusantium officia commodi dolores iusto est ullam praesentium mollitia sapiente sint totam doloremque quidem ipsum architecto eveniet esse rem nostrum amet corrupti! Placeat laudantium beatae laborum accusantium quia architecto eligendi a quae iure consequatur pariatur debitis, in iusto expedita non assumenda recusandae autem ex unde suscipit aut possimus neque. Officiis id dolore vitae, adipisci in ad deleniti quisquam, iste iure ullam aliquam laboriosam dolorum dicta nisi obcaecati aut aperiam cum est natus eum. Fugit, officia quam atque expedita incidunt perferendis nihil doloribus consectetur asperiores, doloremque sunt.",
+    "fontsize":"14px",
+    "color":"lime"
+  }
+}
